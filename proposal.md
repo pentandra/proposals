@@ -24,21 +24,6 @@ outputs, data, sources of data, evidences, standards, principles, practices,
 tools, projects, organizations, funders, individuals, interfaces, and
 expectations in a unified way.
 
----
-Most of our efforts on defining the Scholarly Commons. The Commons is more than
-principles, it's the practices that are most important, and which the
-principles should inform.
-
-Foremost, the Scholarly Commons is a culture, but we lack the
-technology to enable and support that culture. It's great to enumerate
-principles, but we have no way right now to practice in a way that invites
-participation.
-
-anyone's voice to be heard and understood correctly while receiving full credit
-for their contribution.
-
----
-
 The work is composed of three interrelated subprojects:
 
 ; [Open-research curation system](#open-research-curation-system)
