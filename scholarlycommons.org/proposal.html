@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>A proposal for scholarlycommons.org</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="proposal.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">A proposal for scholarlycommons.org</h1>
+</header>
+<section id="what-is-needed-for-a-scholarly-commons" class="level2">
+<h2><span class="header-section-number">0.1</span> What is needed for a scholarly commons?</h2>
+<p>Decision trees are a good start, but they are not enough on their own to create a viable alternative to the current system. According to Diffusion of Innovations we need a viable alternative that can be trialed, and I’m not convinced that we have an existing viable alternative, hypothetical or otherwise. We need a viable alternative, distinct and comprehensive enough to be considered an alternative system of scholarly communication. We also need this alternative system to be better than anything currently available, so that there is real motivation to leave behind old practices and adopt new.</p>
+<p>The Scholarly Commons is a culture, but we’re missing critical infrastructure to tie everything together and allow the culture of the Scholarly Commons to thrive. It is not enough for disciplines to ‘spin up their own variety of commoning’ (<a href="https://cybersocialstructure.org/2016/10/18/think-of-science-like-an-incurable-intellectual-disease-part-3/">Bruce Caron</a>). In order to tie everything together and avoid perpetuating cultural and disciplinary silos, we need ‘technical duct tape’ (also Bruce) harnessing the power of the Web to provide the machine interoperability needed to tie together disciplines, cultures, languages, questions, answers, inputs, outputs, data, sources of data, evidences, standards, principles, practices, tools, projects, organizations, funders, individuals, interfaces, and expectations across the globe in a unified way.</p>
+<p>The work is composed of three interrelated subprojects:</p>
+<dl>
+<dt><a href="#open-research-curation-system">Open-research curation system</a></dt>
+<dd>Question-driven approach that exposes and preserves the researcher’s process
+</dd>
+<dt><a href="#research-guides">Research guides</a></dt>
+<dd>Semi-automated decision trees that guide and assist research
+</dd>
+<dt><a href="#branding-and-visualization">Branding and visualization</a></dt>
+<dd>An integrative approach to the design and functionality of scholarlycommons.org
+</dd>
+</dl>
+<p>Value: $125k ($100 per hour base rate × 50 hours per week × 22 weeks)</p>
+<p>Cost: TBD (see <a href="https://groups.google.com/a/force11.org/d/msg/steering-scwg/tE8yA-zEGrU/F2yMIEuFCAAJ">caveat</a>)</p>
+</section>
+<section id="open-research-curation-system" class="level2">
+<h2><span class="header-section-number">0.2</span> Open-research curation system</h2>
+<p><em>See <a href="https://docs.google.com/document/d/1iZplXo3meTR5164fbkk40-CrauZk89PgxvsZ_jDPTCQ/edit" title="Defining the Commons Platform Proposal">Defining the Commons Platform</a> and <a href="https://docs.google.com/document/d/1eF30cXlPhKHW9brLonb2UJkM4Gk5vcpbegS3D-3tOnA/edit?usp=sharing">my 400 word response</a> for some background thoughts, though this is still a moving target.</em></p>
+<p>The most fundamental purpose of this subproject is to provide a place to explore and eventually answer the question: <em>what is the Scholarly Commons?</em> It will build upon all the work that we have done in the past as a steering committee and working group, as well as the outputs from the workshops in Madrid, Portland, and San Diego. Going forward, it will provide an open and even playing field for anyone to contribute to the definition of the Scholarly Commons.</p>
+<p>The output of this subproject will be a modern, reusable, archetypical research system, aligned with the culture of the Scholarly Commons, that could be used for accomplishing Concept II (focused on the research process) of <a href="https://docs.google.com/document/d/1iGiLTimTeue-Gumk0BZZfzOeDHNJI8jvRRYY84ZHVcc/edit?usp=sharing" title="Doable pathways to the Scholarly Commons">Doable pathways to the Scholarly Commons</a>, discussed during the San Diego workshop. The Scholarly Commons should be a jumping-off point to new ways of working together, taking the best ideas of how to do scholarship in a modern setting, setting aside as many of the undesirable social and cultural limitations as possible.</p>
+<p>One of my greatest takeaways from the main track of the San Diego workshop was that because the research processes were made explicit and studied this way, it allowed the workshop attendees to reason about, find patterns, and learn from them. With this end in mind, a central feature of this system will be exposing the researcher’s path explicitly. From the researcher’s perspective, the entire research process could be viewed as a sequence of decisions. These decisions and the process of how they came about should form the basis of research publication and collaboration.</p>
+<p>If we don’t make that process explicit, how will we be able to share, reproduce, or assess the differences? If we keep the process implicit, or even leave it to post facto analysis to attempt to reveal it all alone, we are missing the whole point, and we end up not very far from where we are now: publishing <em>about</em> the research, instead of publishing <em>research</em>, and our ability to effectively common will be impeded. What is needed is an infrastructure where, as Jeffrey Schnapp says in his presentation on <a href="http://jeffreyschnapp.com/wp-content/uploads/2011/06/HH_lectures_Schnapp_01.pdf">Knowledge Design</a>, the process <em>is</em> the product.</p>
+<p>The general approach will build on the early work of on Issue-Based Information Systems (<a href="https://en.wikipedia.org/wiki/Issue-Based_Information_System" title="Issue-based Information Systems on Wikipedia">IBIS</a>), Knowledge Media Institute’s <a href="http://projects.kmi.open.ac.uk/scholonto/">Scholonto</a> later ideas, other thoughts from the brightest minds on the future of scholarly communication, and our own research on how to fit this all together that we have conducted over the past several years. It will implement the best thinking on evidence and argumentation in a collaborative research context, bringing in bits of knowledge from around the Web, including existing declarations (building on WP1), and mapping that knowledge together (building on WP2), all within a beautiful, simple, and intuitive experience.</p>
+<p>Wherever possible, this system will integrate with and connect current tools, standards, and implementations instead of replacing existing functionality.</p>
+<section id="tentative-high-level-components" class="level3">
+<h3><span class="header-section-number">0.2.1</span> Tentative high-level components</h3>
+<ul>
+<li>Persistent identifiers for:
+<ul>
+<li>Researchers and other individuals (authentication via <a href="https://orcid.org/">ORCiD</a> and <a href="https://indieweb.org/IndieAuth">IndieAuth</a> (or another Web-centric equivalent))</li>
+<li>Organizations and groups (via [Grid])</li>
+<li>Concepts</li>
+<li>Questions</li>
+<li>Everything else uniquely identifiable :-)</li>
+</ul></li>
+<li>Design an ontology (tentatively called the Research Intent Ontology [rio]) that describes the process of knowledge design in research. It will be based upon ideas from <a href="https://www.w3.org/2005/Incubator/decision/wiki/Draft_Final_Report">DecisionML</a>, <a href="https://en.wikipedia.org/wiki/Issue-Based_Information_System" title="Issue-based Information Systems on Wikipedia">IBIS</a>, and <a href="http://projects.kmi.open.ac.uk/scholonto/">Scholonto</a>, and is related to the recent <a href="https://w3id.org/dio">Design Intent Ontology</a></li>
+<li>Develop a user experience around the flow of research on the Scholarly Commons, including questions, peer-to-peer interactions, and versioning, that will form the basis of discourse as well as inform the development of the above ontology</li>
+<li>Create integrations with common tools, starting with the tools that we used during the course of this program, such as Google Docs, hypothes.is, Slack, and Trello</li>
+<li>stuff would happen via Hydra</li>
+<li>Use A/B testing to compare processes, ideas, and user interactions to find what works best</li>
+</ul>
+</section>
+<section id="the-fundamental-building-block-of-scholarly-communication" class="level3">
+<h3><span class="header-section-number">0.2.2</span> The fundamental building block of scholarly communication</h3>
+<p>The basic premise is that our current outputs, implementations, and approaches to scholarly communications, such as papers and working groups, are inherently closed, and not in harmony with the culture of the Scholarly Commons. Openness is more than just licensing and filetype compatibility, or even open admission to a knowledge club. We need a way to open the process so that people can get involved and can collaborate without the barrier of time or place.</p>
+<p>The question is the most fundamental building block of scholarly communication. <a href="http://cameronneylon.net/blog/not-what-not-who-or-how-but-why-is-open/" title="Not what, not who, or how, but Why is Open? by Cameron Neylon">All researchers question</a>. Questions are the bedrock upon which all answers are pursued. Discovery happens after finding the right question to ask. Making public one’s own questions exposes the mind of the researcher, and is the mental and cultural equivalent of a teacher flipping a class. Questions partition research into tractable units of work. Questions are the intellectual undercurrent of the research process. Questions invite the culture of openness that we are so desiring to cultivate.</p>
+<figure>
+<img src="question_stream.svg" alt="A researcher’s stream of questions" /><figcaption>A researcher’s stream of questions</figcaption>
+</figure>
+<p>This is not just another application. It is not a Facebook for science. I think this approach is vital to the integrity of the Scholarly Commons. We need to expose research at the cellular level. We need to expose it at this level of granularity so that other people can involve themselves freely in research. Otherwise we’re still just dealing with closed groups, artifacts, and processes.</p>
+</section>
+<section id="an-organizational-microstructure-for-research" class="level3">
+<h3><span class="header-section-number">0.2.3</span> An organizational microstructure for research</h3>
+<p>The <a href="http://researchobject.org">Research Object</a> approach is fine for publishing a structural depiction of research data, but what we need is a conceptual understanding of what the researcher is trying to accomplish.</p>
+<figure>
+<img src="question_stream_with_research_cases.svg" alt="Questions with research cases" /><figcaption>Questions with research cases</figcaption>
+</figure>
+</section>
+</section>
+<section id="research-guides" class="level2">
+<h2><span class="header-section-number">0.3</span> Research guides</h2>
+<p><em>See <a href="https://docs.google.com/document/d/1ciLAzl65ppmJ_GOPrpkA-s8XXLBmqocME1KkQ5adgUc/edit" title="Infrastructure Map Proposal">Infrastructure Map Proposal</a> for some background thoughts, though those ideas have evolved into something much more simple and distributed, thanks to the discussion on decision trees that came out of the San Diego workshop.</em></p>
+<ul>
+<li>the process trees would be a scholarly output of their own (WP3)</li>
+<li>each workflow would be exposed as a community best practice for a specific situation</li>
+<li>and also as the actual ‘what happened’ for a researcher</li>
+<li>these two would form a processual backbone of the Scholarly Commons</li>
+<li>and would make research reproducible</li>
+</ul>
+<p>We’ve started by selecting the entities of data and software tools, but tracking decisions could be useful during other parts of the research process.</p>
+<p>myExperiment and Taverna</p>
+<p>Explicate the development of every type of research output</p>
+<p>Research guides. At any point, you should be able to see what the plan was (or that there was no plan), and how plan that differed from what actually happened.</p>
+<p>Semi-automating</p>
+<p>Reuseable workflows</p>
+<p>As more decision trees are curated and research done, use machine learning to find patterns of commoning and then generate decision trees based on these patterns, with the goal of assisting future research or decision tree design</p>
+<section id="macro-guides" class="level3">
+<h3><span class="header-section-number">0.3.1</span> Macro guides</h3>
+</section>
+<section id="micro-guides" class="level3">
+<h3><span class="header-section-number">0.3.2</span> Micro guides</h3>
+</section>
+</section>
+<section id="branding-and-visualization" class="level2">
+<h2><span class="header-section-number">0.4</span> Branding and visualization</h2>
+<p><em>See <a href="https://docs.google.com/document/d/1YIxxMpcOni7alThkdVvvrnc_edKay2Ow4kiRwBDTQrs/edit" title="Branding the Scholarly Commons">Branding the Scholarly Commons</a> for some background thoughts, though those thoughts have evolved since then somewhat. This is the only part of this proposal unique to scholarlycommons.org.</em></p>
+<p>Logo</p>
+<section id="visualization" class="level3">
+<h3><span class="header-section-number">0.4.1</span> Visualization</h3>
+<p><em>See <a href="https://docs.google.com/document/d/1ciLAzl65ppmJ_GOPrpkA-s8XXLBmqocME1KkQ5adgUc/edit" title="Infrastructure Map Proposal">Infrastructure Map Proposal</a> for some background thoughts on this, as well as some <a href="https://docs.google.com/document/d/1y8AZWIJN5mJ3xloxXblsSENmvl4meBn0H2rxUG8HIec/edit?usp=sharing">earlier emails</a>.</em></p>
+<p>The visualization builds upon the data and understandings obtained from the <a href="#open-research-curation-system">open-research curation system</a> and the <a href="#research-guides">research guides</a> to help people (and machines) see how the commons works, or how the resources of the commons interact. Though scholarly commoning will be happening across all disciplines, in some form or another, scholarlycommons.org will be the place that we study <em>how</em> and <em>why</em> this commoning process actually happens, across all domains. Think of the people studying the scholarly commons as a <em><a href="https://cybersocialstructure.org/2016/10/03/think-of-science-like-an-incurable-intellectual-disease/">collective</a></em>.</p>
+<p>The visualization is made of representations of the types of resources used in scholarly commoning, both interactional and artifactual. These resources are represented visually as smaller components of a greater whole. The components are a visual typology that will aid in understanding not only the details of the research process, but how the culture of the Scholarly Commons provides a more fluent and integrative research experience. Pieces of the research process only fit together in a certain sequence. This visual typology will depict and reinforce the sequential nature of how research actually happens or could potentially happen.</p>
+<p>The overall visualization is dynamic, as new types of resources are discovered, and is based on an underlying map of the resources accessible to machines. It will connect things that have previously been unconnected. At any given point in time the map gives a picture of what the commons is at that particular point in time. It is not a top-down rendering of what we would like it to be, but a versioned representation of the actual resources and potential interactions between those resources. At first these resources will be more domain-agnostic, but over time, more and more domain-specific resources will be represented.</p>
+</section>
+</section>
+<section id="other-functionalities" class="level2">
+<h2><span class="header-section-number">0.5</span> Other functionalities</h2>
+<ul>
+<li>Web pages</li>
+<li>Blog</li>
+</ul>
+</section>
+<section id="governance" class="level2">
+<h2><span class="header-section-number">0.6</span> Governance</h2>
+<p>(?) This project is governed in partnership with FORCE11 and Pentandra, rather than a one-time outsourcing to a contractor or vendor.</p>
+<p>Not advisory board, but invitations to collaborate directly.</p>
+<p>I’m open to options here.</p>
+</section>
+<section id="maintenance" class="level2">
+<h2><span class="header-section-number">0.7</span> Maintenance</h2>
+</section>
+<section id="accessibility" class="level2">
+<h2><span class="header-section-number">0.8</span> Accessibility</h2>
+</section>
+<section id="a-tentative-development-schedule-for-scholarlycommons.org" class="level2">
+<h2><span class="header-section-number">0.9</span> A tentative development schedule for scholarlycommons.org</h2>
+<p>The work will be organized into 11 two-week sprints. All three subprojects will be developed incrementally and simultaneously, as they will inform each other during the development process.</p>
+<ul>
+<li>Sprint 1: Feb 13–24</li>
+<li>Sprint 2: Feb 27–Mar 10</li>
+<li>Sprint 3: Mar 6–Mar 17</li>
+<li>Sprint 4: Mar 20–Mar 31</li>
+</ul>
+<p>(Spring Break: Apr 3–Apr 7)</p>
+<ul>
+<li>Sprint 5: Apr 10–Apr 21 (Everything desired for the CC Summit must be completed by the end of this sprint)</li>
+<li>Sprint 6: Apr 24–May 5</li>
+<li>Sprint 7: May 8–May 19</li>
+<li>Sprint 8: May 22–Jun 2</li>
+<li>Sprint 9: Jun 5–Jun 16</li>
+</ul>
+<p>(Summer Vacation at Yellowstone: Jul 3–Jul 7)</p>
+<ul>
+<li>Sprint 10: Jun 19–Jun 30</li>
+<li>Sprint 11: Jul 10–Jul 21</li>
+</ul>
+</section>
+</body>
+</html>
