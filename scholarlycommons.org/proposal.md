@@ -99,7 +99,7 @@ standards, and implementations instead of replacing existing functionality.
 
 * Persistent identifiers for:
     * Researchers and other individuals (authentication via [ORCiD] and
-      IndieAuth (or another Web-centric equivalent))
+      [IndieAuth] (or another Web-centric equivalent))
     * Organizations and groups (via [Grid])
     * Concepts
     * Questions
@@ -289,3 +289,5 @@ during the development process.
 [Why is open]: <http://cameronneylon.net/blog/not-what-not-who-or-how-but-why-is-open/> "Not what, not who, or how, but Why is Open? by Cameron Neylon"
 [Research Object]: <http://researchobject.org>
 [earlier emails]: <https://www.google.com/url?q=https://docs.google.com/document/d/1y8AZWIJN5mJ3xloxXblsSENmvl4meBn0H2rxUG8HIec/edit%23heading%3Dh.y626898elhif&sa=D&ust=1481159134173000&usg=AFQjCNGbU3srIMBPDfZGMlh3Aw0nQHxvDw> 
+[ORCiD]: <https://orcid.org/>
+[IndieAuth]: <https://indieweb.org/IndieAuth>
