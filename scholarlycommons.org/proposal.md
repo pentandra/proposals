@@ -273,7 +273,7 @@ during the development process.
 * Sprint 11: Jul 10–Jul 21
 
 [dio]: <https://w3id.org/dio>
-[IBIS]: <> "Issue-based Information Systems"
+[IBIS]: <https://en.wikipedia.org/wiki/Issue-Based_Information_System> "Issue-based Information Systems on Wikipedia"
 [DecisionML]: <https://www.w3.org/2005/Incubator/decision/wiki/Draft_Final_Report>
 [Scholonto]: <http://projects.kmi.open.ac.uk/scholonto/>
 [Hydra]: <https://hydra-cg.com>
@@ -285,9 +285,9 @@ during the development process.
 [Bruce Caron]: <https://cybersocialstructure.org/2016/10/18/think-of-science-like-an-incurable-intellectual-disease-part-3/>
 [collective]: <https://cybersocialstructure.org/2016/10/18/think-of-science-like-an-incurable-intellectual-disease-part-1/>
 [caveat]: <https://groups.google.com/a/force11.org/d/msg/steering-scwg/tE8yA-zEGrU/F2yMIEuFCAAJ>
-[Pathways]: <> "Doable pathways to the Scholarly Commons"
+[Pathways]: <https://docs.google.com/document/d/1iGiLTimTeue-Gumk0BZZfzOeDHNJI8jvRRYY84ZHVcc/edit?usp=sharing> "Doable pathways to the Scholarly Commons"
 [Why is open]: <http://cameronneylon.net/blog/not-what-not-who-or-how-but-why-is-open/> "Not what, not who, or how, but Why is Open? by Cameron Neylon"
 [Research Object]: <http://researchobject.org>
-[earlier emails]: <https://www.google.com/url?q=https://docs.google.com/document/d/1y8AZWIJN5mJ3xloxXblsSENmvl4meBn0H2rxUG8HIec/edit%23heading%3Dh.y626898elhif&sa=D&ust=1481159134173000&usg=AFQjCNGbU3srIMBPDfZGMlh3Aw0nQHxvDw> 
+[earlier emails]: <https://docs.google.com/document/d/1y8AZWIJN5mJ3xloxXblsSENmvl4meBn0H2rxUG8HIec/edit?usp=sharing> 
 [ORCiD]: <https://orcid.org/>
 [IndieAuth]: <https://indieweb.org/IndieAuth>
