@@ -11,9 +11,9 @@ Decision trees are a good start, but they are not enough on their own to create
 a viable alternative to the current system. According to Diffusion of
 Innovations we need a viable alternative that can be trialed, and I'm not
 convinced that we have an existing viable alternative, hypothetical or
-otherwise. We need a viable alternative, distinct and comprehensive enough to
-be considered an alternative system of scholarly communication. We also need
-this alternative system to be better than anything currently available, so that
+otherwise. I am proposing here a viable alternative, distinct and comprehensive
+enough to be considered an alternative system of scholarly communication. This
+alternative system also must be better than anything currently available, so
 there is real motivation to leave behind old practices and adopt new.
 
 The Scholarly Commons is a culture, but we're missing critical infrastructure
@@ -72,7 +72,8 @@ them. With this end in mind, a central feature of this system will be exposing
 the researcher's path explicitly. From the researcher's perspective, the entire
 research process could be viewed as a sequence of decisions. These decisions
 and the process of how they came about should form the basis of research
-publication and collaboration.
+publication and collaboration. It is the _process_ that needs to be open and
+replicable, not the tools (as much).
 
 If we don't make that process explicit, how will we be able to share,
 reproduce, or assess the differences? If we keep the process implicit, or even
@@ -107,7 +108,7 @@ standards, and implementations instead of replacing existing functionality.
     * Everything else uniquely identifiable :-)
 * Design an ontology (tentatively called the Research Intent Ontology [rio])
   that describes the process of knowledge design in research. It will be based
-  upon ideas from [DecisionML], [IBIS], and [Scholonto], and is related to the
+  (loosely) upon ideas from [DecisionML][], [IBIS][], [Scholonto][], and the
   recent [Design Intent Ontology][dio]
 * Develop a user experience around the flow of research on the Scholarly
   Commons, including questions, peer-to-peer interactions, and versioning, that
@@ -120,7 +121,7 @@ standards, and implementations instead of replacing existing functionality.
 * Use A/B testing to compare processes, ideas, and user interactions to find
   what works best
 
-## The fundamental building block of scholarly communication
+## The fundamental building block of scholarly commoning
 
 The basic premise is that our current outputs, implementations, and approaches
 to scholarly communications, such as papers and working groups, are inherently
@@ -196,6 +197,9 @@ _See [Branding the Scholarly Commons][BtheSC] for some background thoughts,
 though those thoughts have evolved since then somewhat. This is the only part
 of this proposal unique to scholarlycommons.org._
 
+As with all components of this project, we are taking a two-pronged focus with
+scholarlycommons.org: domain researchers, and the public.
+
 Logo
 
 ## Visualization
@@ -237,16 +241,40 @@ but over time, more and more domain-specific resources will be represented.
 
 # Governance
 
-(?) This project is governed in partnership with FORCE11 and Pentandra, rather than
-a one-time outsourcing to a contractor or vendor.
+This project is to be undertaken as a partnership between FORCE11 and
+Pentandra, rather than as a one-time outsourcing to a contractor or vendor.
 
-Not advisory board, but invitations to collaborate directly.
-
-I'm open to options here. 
+Rather than assembling an ad hoc advisory board or organizing a working group,
+invitations to collaborate directly will be offered. Discussions and research
+as to how the system should work should happen within the system. In this way,
+we hope to receive better and quicker feedback, and in the end develop
+something that actually works well, and builds on the ideas of many people
+directly.
 
 # Maintenance
 
 # Accessibility
+
+# Sustainability
+
+This system will serve as a testbed for new forms of research funding. By
+exposing more of the research process, funding can happen at a smaller
+granularity, lowering the risk for funders while at the same time offloading
+some of the administrative overhead of the funding process. We see a lot of
+benefit in heading in this direction with research funding, especially if it
+provided the flexibility to accomodate specific disciplinary and cultural
+approaches.
+
+Besides acting as a market for research funding, another possibility that could
+be explored is to provide contextually specific opportunities to connect, for
+example, service providers to researchers.
+
+If we can find patterns of sustainability that work well and are
+commons-compliant, these patterns could provide valuable revenue streams that
+could sustain not only scholarlycommons.org, but could be replicated as others
+build similar collective-focused, self-sustaining systems to answer other
+specific questions, and could serve as a scalable means to fund ongoing
+research and development of the Scholarly Commons.
 
 # A tentative development schedule for scholarlycommons.org
 
