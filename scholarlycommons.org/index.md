@@ -262,7 +262,7 @@ exposing more of the research process, funding can happen at a smaller
 granularity, lowering the risk for funders while at the same time offloading
 some of the administrative overhead of the funding process. We see a lot of
 benefit in heading in this direction with research funding, especially if it
-provided the flexibility to accomodate specific disciplinary and cultural
+provided the flexibility to accommodate specific disciplinary and cultural
 approaches.
 
 Besides acting as a market for research funding, another possibility that could
