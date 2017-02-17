@@ -2,8 +2,9 @@
 title: A proposal for scholarlycommons.org
 created_at: 2017-02-04
 updated_at: 2017-02-13
+status: developing
 amount_usd: TBD
-...
+---
 
 # What is needed for a scholarly commons?
 
@@ -27,7 +28,7 @@ questions, answers, inputs, outputs, data, sources of data, evidences,
 standards, principles, practices, tools, projects, organizations, funders,
 individuals, interfaces, and expectations across the globe in a unified way.
 
-The work is composed of three interrelated subprojects:
+The work is composed of three interrelated projects:
 
 [Open-research curation system][]
 : Question-driven approach that exposes and preserves the researcher's process
@@ -36,7 +37,7 @@ The work is composed of three interrelated subprojects:
 : Semi-automated decision trees that guide and assist research
 
 [Branding and visualization][]
-: An integrative approach to the design and functionality of scholarlycommons.org
+: An integrative approach to the design and functionality of `scholarlycommons.org`{.domainname}
 
 Value: $125k ($100 per hour base rate × 50 hours per week × 22 weeks)
 
@@ -48,7 +49,7 @@ _See [Defining the Commons Platform][DtheCP] and [my 400 word
 response][Continuing the conversations] for some background thoughts, though
 this is still a moving target._
 
-The most fundamental purpose of this subproject is to provide a place to
+The most fundamental purpose of this project is to provide a place to
 explore and eventually answer the question: _what is the Scholarly Commons?_ It
 will build upon all the work that we have done in the past as a steering
 committee and working group, as well as the outputs from the workshops in
@@ -56,7 +57,7 @@ Madrid, Portland, and San Diego. Going forward, it will provide an open and
 even playing field for anyone to contribute to the definition of the Scholarly
 Commons.
 
-The output of this subproject will be a modern, reusable, archetypical research
+The output of this project will be a modern, reusable, prototypical research
 system, aligned with the culture of the Scholarly Commons, that could be used
 for accomplishing Concept II (focused on the research process) of [Doable
 pathways to the Scholarly Commons][Pathways], discussed during the San Diego
@@ -115,8 +116,8 @@ standards, and implementations instead of replacing existing functionality.
   will form the basis of discourse as well as inform the development of the
   above ontology
 * Create integrations with common tools, starting with the tools that we used
-  during the course of this program, such as Google Docs, hypothes.is, Slack,
-  and Trello
+  during the course of this program, such as Google Docs,
+  [Hypothes.is]{.domainname}, Slack, and Trello
 * stuff would happen via Hydra
 * Use A/B testing to compare processes, ideas, and user interactions to find
   what works best
@@ -181,7 +182,7 @@ that there was no plan), and how plan that differed from what actually happened.
 
 Semi-automating
 
-Reuseable workflows
+Reusable workflows
 
 As more decision trees are curated and research done, use machine learning to
 find patterns of commoning and then generate decision trees based on these
@@ -195,10 +196,10 @@ patterns, with the goal of assisting future research or decision tree design
 
 _See [Branding the Scholarly Commons][BtheSC] for some background thoughts,
 though those thoughts have evolved since then somewhat. This is the only part
-of this proposal unique to scholarlycommons.org._
+of this proposal unique to `scholarlycommons.org`{.domainname}._
 
 As with all components of this project, we are taking a two-pronged focus with
-scholarlycommons.org: domain researchers, and the public.
+`scholarlycommons.org`{.domainname}: domain researchers, and the public.
 
 Logo
 
@@ -211,9 +212,10 @@ The visualization builds upon the data and understandings obtained from the
 [open-research curation system] and the [research guides] to help people (and
 machines) see how the commons works, or how the resources of the commons
 interact. Though scholarly commoning will be happening across all disciplines,
-in some form or another, scholarlycommons.org will be the place that we study
-_how_ and _why_ this commoning process actually happens, across all domains.
-Think of the people studying the scholarly commons as a _[collective]_.
+in some form or another, `scholarlycommons.org`{.domainname} will be the place
+that we study _how_ and _why_ this commoning process actually happens, across
+all domains. Think of the people studying the scholarly commons as a
+_[collective]_.
 
 The visualization is made of representations of the types of resources used in
 scholarly commoning, both interactional and artifactual. These resources are
@@ -271,14 +273,14 @@ example, service providers to researchers.
 
 If we can find patterns of sustainability that work well and are
 commons-compliant, these patterns could provide valuable revenue streams that
-could sustain not only scholarlycommons.org, but could be replicated as others
-build similar collective-focused, self-sustaining systems to answer other
-specific questions, and could serve as a scalable means to fund ongoing
-research and development of the Scholarly Commons.
+could sustain not only `scholarlycommons.org`{.domainname}, but could be
+replicated as others build similar collective-focused, self-sustaining systems
+to answer other specific questions, and could serve as a scalable means to fund
+ongoing research and development of the Scholarly Commons.
 
-# A tentative development schedule for scholarlycommons.org
+# A tentative development schedule
 
-The work will be organized into 11 two-week sprints. All three subprojects will
+The work will be organized into 11 two-week sprints. All three projects will
 be developed incrementally and simultaneously, as they will inform each other
 during the development process.
 
@@ -321,3 +323,4 @@ during the development process.
 [ORCiD]: <https://orcid.org/>
 [IndieAuth]: <https://indieweb.org/IndieAuth>
 [Continuing the conversations]: <https://docs.google.com/document/d/1eF30cXlPhKHW9brLonb2UJkM4Gk5vcpbegS3D-3tOnA/edit?usp=sharing>
+[rio]: <https://w3id.org/rio> {.prefix}
