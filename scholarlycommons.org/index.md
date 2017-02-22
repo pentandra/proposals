@@ -2,8 +2,7 @@
 title: A proposal for scholarlycommons.org
 created_at: 2017-02-04
 updated_at: 2017-02-13
-status: developing
-amount_usd: TBD
+status: draft
 ---
 
 # What is needed for a scholarly commons?
@@ -38,8 +37,6 @@ The work is composed of three interrelated projects:
 
 [Branding and visualization][]
 : An integrative approach to the design and functionality of `scholarlycommons.org`{.domainname}
-
-Value: $125k ($100 per hour base rate × 50 hours per week × 22 weeks)
 
 Cost: TBD (see [caveat])
 
@@ -101,23 +98,22 @@ standards, and implementations instead of replacing existing functionality.
 ## Tentative high-level components
 
 * Persistent identifiers for:
-    * Researchers and other individuals (authentication via [ORCiD] and
-      [IndieAuth] (or another Web-centric equivalent))
+    * Researchers (authentication via [ORCiD] and [IndieAuth], or another Web-centric equivalent, for the indie people)
     * Organizations and groups (via [Grid])
     * Concepts
     * Questions
     * Everything else uniquely identifiable :-)
-* Design an ontology (tentatively called the Research Intent Ontology [rio])
-  that describes the process of knowledge design in research. It will be based
-  (loosely) upon ideas from [DecisionML][], [IBIS][], [Scholonto][], and the
-  recent [Design Intent Ontology][dio]
+* Design an ontology, tentatively called the Research Intent Ontology
+  ([`rio`{.prefix}][rio]), that describes the process of knowledge design in
+  research. It will be loosely based on ideas from [DecisionML][],
+  [IBIS][], [Scholonto][], and the recent [Design Intent Ontology][dio]
 * Develop a user experience around the flow of research on the Scholarly
   Commons, including questions, peer-to-peer interactions, and versioning, that
   will form the basis of discourse as well as inform the development of the
   above ontology
 * Create integrations with common tools, starting with the tools that we used
   during the course of this program, such as Google Docs,
-  [Hypothes.is]{.domainname}, Slack, and Trello
+  [Hypothes.is]{.domainname}, [Slack], and [Trello]
 * stuff would happen via Hydra
 * Use A/B testing to compare processes, ideas, and user interactions to find
   what works best
