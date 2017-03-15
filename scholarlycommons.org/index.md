@@ -27,7 +27,29 @@ questions, answers, inputs, outputs, data, sources of data, evidences,
 standards, principles, practices, tools, projects, organizations, funders,
 individuals, interfaces, and expectations across the globe in a unified way.
 
-The work is composed of three interrelated projects:
+<figure class="bq grab">
+
+> If I asked my customers what they would want, they would have said a faster
+> horse.
+
+<figcaption>--- Henry Ford</figcaption>
+</figure>
+
+The corollary here is: _if I asked researchers what they would want, they would
+have said a better preprint server._ While there are things we can do now that
+could be called 'shared practices' of scholarly commoning, many of these things
+are based on 19th century practices. The Scholarly Commons should be a
+jumping-off point to new ways of working together, taking the best ideas of how
+to do scholarship in a modern setting, setting aside as many of the undesirable
+social, cultural, and technical limitations as possible. According to Diffusion
+of Innovations we need a viable alternative that can be trialed. To this end I
+am proposing to create a prototypical research system in the spirit of Concept
+[II]{.roman} of the Doable Pathways to the Scholarly Commons.
+
+The theme of this prototype will be the Scholarly Commons, with an emphasis on
+creating generic, domain-agnostic components, so that the ideas and
+functionality created here can be applied to as many domains as possible. The
+work is composed of three interrelated projects:
 
 [Open-research curation system][]
 : Question-driven approach that exposes and preserves the researcher's process
@@ -153,6 +175,8 @@ researcher is trying to accomplish.
 
 ![Questions with research cases](question_stream_with_research_cases.svg)
 
+Cameron's TCP/IP for research.
+
 # Research guides
 
 _See [Infrastructure Map Proposal][IMP] for some background thoughts, though
@@ -253,7 +277,7 @@ directly.
 
 # Accessibility
 
-# Sustainability
+# Self-sustainability
 
 This system will serve as a testbed for new forms of research funding. By
 exposing more of the research process, funding can happen at a smaller
