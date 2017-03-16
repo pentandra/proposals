@@ -70,12 +70,17 @@ _See [Defining the Commons Platform][DtheCP] and [my 400 word
 response][Continuing the conversations] for some background thoughts, though
 this is still a moving target._
 
-The most fundamental purpose of this project is to provide a place to
-explore and eventually answer the question: _what is the Scholarly Commons?_ It
-will build upon all the work that we have done in the past as a steering
-committee and working group, as well as the outputs from the workshops in
-Madrid, Portland, and San Diego. Going forward, it will provide an open and
-even playing field for anyone to contribute to the definition of the Scholarly
+A vision for this project is painted beautifully by the humanist Jeffrey
+Schnapp in his concept of <dfn id="def:ubiquitous-curation">ubiquitous
+curation</dfn> in the lecture [<cite>Knowledge Design</cite>][knowledge
+design].
+
+The most fundamental purpose of this project is to provide a place to explore
+and eventually answer the question: _what is the Scholarly Commons?_ It will
+build upon all the work that we have done in the past as a steering committee
+and working group, as well as the outputs from the workshops in Madrid,
+Portland, and San Diego. Going forward, it will provide an open and even
+playing field for anyone to contribute to the definition of the Scholarly
 Commons.
 
 The output of this project will be a modern, reusable, prototypical research
