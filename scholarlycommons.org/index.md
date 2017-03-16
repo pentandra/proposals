@@ -2,19 +2,24 @@
 title: A proposal for scholarlycommons.org
 created_at: 2017-02-04
 updated_at: 2017-02-13
+kind: proposal
 status: draft
+in_reply_to:
+  title: Solicitation for a Scholarly Commons decision trees workflow system
+  uri: 'https://www.force11.org/article/call-proposals-scholarly-commons-decision-trees-workflow-system'
+tags:
+  - Scholarly Commons
 ---
 
 # What is needed for a scholarly commons?
 
-Decision trees are a good start, but they are not enough on their own to create
-a viable alternative to the current system. According to Diffusion of
-Innovations we need a viable alternative that can be trialed, and I'm not
-convinced that we have an existing viable alternative, hypothetical or
-otherwise. I am proposing here a viable alternative, distinct and comprehensive
-enough to be considered an alternative system of scholarly communication. This
-alternative system also must be better than anything currently available, so
-there is real motivation to leave behind old practices and adopt new.
+<figure class="bq grab">
+
+> If I had asked people what they wanted, they would have said faster
+> \[preprint servers\].
+
+<figcaption>--- [misattributed to] and adapted from [Henry Ford], who improved the process of automobile production (workflow) such that the automobile became a practical means of conveyance.</figcaption>
+</figure>
 
 The Scholarly Commons is a culture, but we're missing critical infrastructure
 to tie everything together and allow the culture of the Scholarly Commons to
@@ -25,31 +30,28 @@ perpetuating cultural and disciplinary silos, we need 'technical duct tape'
 interoperability needed to tie together disciplines, cultures, languages,
 questions, answers, inputs, outputs, data, sources of data, evidences,
 standards, principles, practices, tools, projects, organizations, funders,
-individuals, interfaces, and expectations across the globe in a unified way.
+individuals, interfaces, and expectations across the globe in an open and
+unified way.
 
-<figure class="bq grab">
+The Scholarly Commons should be a jumping-off point to new ways of working
+together, taking the best ideas of how to do scholarship in a modern setting,
+setting aside as many of the undesirable social, cultural, and technical
+limitations as possible. According to Diffusion of Innovations we need a viable
+alternative that can be trialed, and I'm not convinced that we have an existing
+viable alternative, hypothetical or otherwise. To this end  I am proposing here
+a viable alternative, distinct and comprehensive enough to be considered an
+alternative system of scholarly communication. I am proposing to create a
+prototypical research system in the spirit of Concept [II]{.roman} of the
+Doable Pathways to the Scholarly Commons.
 
-> If I asked my customers what they would want, they would have said a faster
-> horse.
-
-<figcaption>--- Henry Ford</figcaption>
-</figure>
-
-The corollary here is: _if I asked researchers what they would want, they would
-have said a better preprint server._ While there are things we can do now that
-could be called 'shared practices' of scholarly commoning, many of these things
-are based on 19th century practices. The Scholarly Commons should be a
-jumping-off point to new ways of working together, taking the best ideas of how
-to do scholarship in a modern setting, setting aside as many of the undesirable
-social, cultural, and technical limitations as possible. According to Diffusion
-of Innovations we need a viable alternative that can be trialed. To this end I
-am proposing to create a prototypical research system in the spirit of Concept
-[II]{.roman} of the Doable Pathways to the Scholarly Commons.
-
-The theme of this prototype will be the Scholarly Commons, with an emphasis on
-creating generic, domain-agnostic components, so that the ideas and
-functionality created here can be applied to as many domains as possible. The
-work is composed of three interrelated projects:
+Decision trees are a good start, but they are not enough on their own to create
+a viable alternative to the current system. This alternative system must be
+better than anything currently available, so there is real motivation to leave
+behind old practices and adopt new. The theme of this prototype will be the
+Scholarly Commons, with an emphasis on creating generic, domain-agnostic
+components, so that the ideas and functionality created here can be applied to
+as many domains as possible. The work is composed of three interrelated
+projects:
 
 [Open-research curation system][]
 : Question-driven approach that exposes and preserves the researcher's process
@@ -344,3 +346,5 @@ during the development process.
 [IndieAuth]: <https://indieweb.org/IndieAuth>
 [Continuing the conversations]: <https://docs.google.com/document/d/1eF30cXlPhKHW9brLonb2UJkM4Gk5vcpbegS3D-3tOnA/edit?usp=sharing>
 [rio]: <https://w3id.org/rio> {.prefix}
+[misattributed to]: <http://quoteinvestigator.com/2011/07/28/ford-faster-horse/> "'My Customers Would Have Asked For a Faster Horse' on Quote Investigator"
+[Henry Ford]: <https://en.wikipedia.org/wiki/Henry_Ford> "Henry Ford on Wikipedia"
