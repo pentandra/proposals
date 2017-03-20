@@ -18,7 +18,7 @@ tags:
 > If I had asked people what they wanted, they would have said faster
 > \[preprint servers\].
 
-<figcaption>--- [misattributed to] and adapted from [Henry Ford], who improved the process of automobile production (workflow) such that the automobile became a practical means of conveyance.</figcaption>
+<figcaption>--- adapted from a quote [misattributed] to [Henry Ford], who improved the process of automobile production (workflow) such that the automobile became a practical means of conveyance for the middle class.</figcaption>
 </figure>
 
 The Scholarly Commons is a culture, but we're missing critical infrastructure
@@ -351,5 +351,5 @@ during the development process.
 [IndieAuth]: <https://indieweb.org/IndieAuth>
 [Continuing the conversations]: <https://docs.google.com/document/d/1eF30cXlPhKHW9brLonb2UJkM4Gk5vcpbegS3D-3tOnA/edit?usp=sharing>
 [rio]: <https://w3id.org/rio> {.prefix}
-[misattributed to]: <http://quoteinvestigator.com/2011/07/28/ford-faster-horse/> "'My Customers Would Have Asked For a Faster Horse' on Quote Investigator"
+[misattributed]: <http://quoteinvestigator.com/2011/07/28/ford-faster-horse/> "'My Customers Would Have Asked For a Faster Horse' on Quote Investigator"
 [Henry Ford]: <https://en.wikipedia.org/wiki/Henry_Ford> "Henry Ford on Wikipedia"
