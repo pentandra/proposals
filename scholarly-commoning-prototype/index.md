@@ -18,7 +18,7 @@ tags:
 > If I had asked people what they wanted, they would have said faster
 > \[preprint servers\].
 
-<figcaption>--- adapted from a quote [misattributed] to [Henry Ford], who improved the process of automobile production (workflow) such that the automobile became a practical means of conveyance for the middle class.</figcaption>
+<figcaption>--- adapted from a quote [misattributed] to [Henry Ford], who improved the process of automobile production (workflow) such that the automobile became a practical means of conveyance for many more people.</figcaption>
 </figure>
 
 The Scholarly Commons is a culture, but we're missing critical infrastructure
@@ -54,15 +54,18 @@ as many domains as possible. The work is composed of three interrelated
 projects:
 
 [Open-research curation system][]
+
 : Question-driven approach that exposes and preserves the researcher's process
 
 [Research guides][]
+
 : Semi-automated decision trees that guide and assist research
 
 [Branding and visualization][]
+
 : An integrative approach to the design and functionality of `scholarlycommons.org`{.domainname}
 
-Cost: TBD (see [caveat])
+Cost: [TBD][caveat]
 
 # Open-research curation system
 
@@ -191,6 +194,9 @@ those ideas have evolved into something much more simple and distributed,
 thanks to the discussion on decision trees that came out of the San Diego
 workshop._
 
+Decision trees are action-based, describing patterns of behavior, not patterns
+of logic.
+
 * the process trees would be a scholarly output of their own (WP3)
 * each workflow would be exposed as a community best practice for a specific situation
 * and also as the actual 'what happened' for a researcher
@@ -211,13 +217,22 @@ Semi-automating
 
 Reusable workflows
 
+Research zealots will still find ways to blaze trails where there are none, but
+why not plan for the city and prepare for the streets to make it easier for
+everyone to transition? We need streets for machines for navigate, so people
+don't have to. The tools that are part of the commons should be able to
+discover other tools and people and research with which to interact. Our tools
+and machines need to know how to common too! Why not? All this could transform
+research into a realtime dynamic system rather than the current static system
+against which we struggle.
+
+## Human-curated decision trees
+
+## Machine-curated patterns
+
 As more decision trees are curated and research done, use machine learning to
 find patterns of commoning and then generate decision trees based on these
 patterns, with the goal of assisting future research or decision tree design
-
-## Macro guides
-
-## Micro guides
 
 # Branding and visualization
 
@@ -270,8 +285,9 @@ but over time, more and more domain-specific resources will be represented.
 
 # Governance
 
-This project is to be undertaken as a partnership between FORCE11 and
-Pentandra, rather than as a one-time outsourcing to a contractor or vendor.
+This project is to be undertaken as an ongoing partnership between <span
+class="abbr">FORCE11</span> and Pentandra, rather than as a one-time
+outsourcing to a contractor or vendor.
 
 Rather than assembling an ad hoc advisory board or organizing a working group,
 invitations to collaborate directly will be offered. Discussions and research
