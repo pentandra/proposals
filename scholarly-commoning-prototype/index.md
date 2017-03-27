@@ -4,9 +4,6 @@ created_at: 2017-02-04
 updated_at: 2017-02-13
 kind: proposal
 status: draft
-in_reply_to:
-  title: Solicitation for a Scholarly Commons decision trees workflow system
-  uri: 'https://www.force11.org/article/call-proposals-scholarly-commons-decision-trees-workflow-system'
 tags:
   - Scholarly Commons
 ---
