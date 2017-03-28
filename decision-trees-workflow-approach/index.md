@@ -1,7 +1,7 @@
 ---
 title: Decision Trees Workflow Approach
 created_at: 2017-03-27
-updated_at: 2017-03-27
+updated_at: 2017-03-28
 kind: proposal
 status: draft
 in_reply_to_id: /static/archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz.yaml
@@ -118,7 +118,7 @@ as to how to proceed with that, and is not currently part of this proposal.
 
 ### Where's the user experience?
 
-As the emphasis is on creating a mechanism to describe the practice of
+As the emphasis in this proposal is on creating a mechanism to describe the practice of
 research, the implementation of the decision tree workflow for this proposal
 will use a rather simple textual user interface. This has a number of benefits.
 First, it will put the focus where it needs to be at this point, to make sure
@@ -175,7 +175,7 @@ The final trees should be static but hyperlinked
 Each should have a persistent identifier and include versioning capabilities
 
 :   The persistent identifier and versioning capabilities are handled in the
-    SVG's linked metadata. In the proof-of-concept, this will be more a manual
+    linked metadata. In the proof-of-concept, this will be more a manual
     process.
 
 There should be a manual/template to enable adaptation by others
@@ -218,7 +218,7 @@ Need to link with one or more external repositories
 :   The companion proposal describes a system that functions as a repository as
     well.
 
-Additional credit will be given to proposals that consider 508 compliance
+Additional credit will be given to proposals that consider [508]{.oldstyle} compliance
 
 :   The SVG format is textual and consideration will be given to make these
     objects as accessible to those with disabilities as possible.
@@ -240,11 +240,16 @@ At least weekly updates via call, and interim communication via email to
 provide updates and seek feedback on the ongoing development of the ontology
 and workflows.
 
-GitHub issues
+GitHub issues can also be used for communication throughout the development
+process.
 
 # Budget
 
-Please see [caveat].
+Please see [caveat]. Quoting from the most relevant part: <q
+cite="https://www.google.com/url?q=https://groups.google.com/a/force11.org/d/msg/steering-scwg/tE8yA-zEGrU/F2yMIEuFCAAJ&sa=D&ust=1481159654848000&usg=AFQjCNHNGLAdwrB4S-Cx7cm0YPSIO0ENkw">since
+this would be a fairly hefty time commitment, we'd love to be compensated, but
+even if we were compensated only partly or not at all, we would still love to
+help.</q>
 
 [SVGTiny metadata]: <https://www.w3.org/TR/SVGTiny12/metadata.html>
 [Nanoc]: <http://nanoc.ws> {.projectname}
