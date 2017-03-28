@@ -3,7 +3,7 @@ title: Decision Trees Workflow Approach
 created_at: 2017-03-27
 updated_at: 2017-03-28
 kind: proposal
-status: draft
+status: submitted
 in_reply_to_id: /static/archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz.yaml
 #part_of_id: /static/solutions/proposals/scholarly-commoning-prototype/index.md
 tags:
