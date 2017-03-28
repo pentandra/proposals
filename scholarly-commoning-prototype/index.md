@@ -1,7 +1,7 @@
 ---
-title: A proposal for scholarlycommons.org
+title: Scholarly commoning prototype
 created_at: 2017-02-04
-updated_at: 2017-02-13
+updated_at: 2017-03-27
 kind: proposal
 status: draft
 tags:
