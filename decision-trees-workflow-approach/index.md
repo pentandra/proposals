@@ -2,8 +2,9 @@
 title: Decision Trees Workflow Approach
 created_at: 2017-03-27
 updated_at: 2017-03-28
+submitted_at: 2017-03-27
 kind: proposal
-status: submitted
+status: rejected
 in_reply_to_id: /static/archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz.yaml
 #part_of_id: /static/solutions/proposals/scholarly-commoning-prototype/index.md
 tags:
@@ -160,7 +161,6 @@ Reduction of number of steps required to make a commons-compliant object
     decision tree:
 
     1. Write a declarative representation of the decision tree.
-
     2. Generate the representations.
 
 Should be both human and machine readable
