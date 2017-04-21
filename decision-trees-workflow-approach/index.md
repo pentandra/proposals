@@ -4,7 +4,7 @@ created_at: 2017-03-27
 updated_at: 2017-03-28
 submitted_at: 2017-03-27
 kind: proposal
-status: rejected
+decision: rejected
 in_reply_to_id: /static/archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz.yaml
 #part_of_id: /static/solutions/proposals/scholarly-commoning-prototype/index.md
 tags:
