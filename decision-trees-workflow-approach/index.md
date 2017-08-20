@@ -5,7 +5,7 @@ updated_at: 2017-03-28
 submitted_at: 2017-03-27
 kind: proposal
 decision: rejected
-in_reply_to_id: /archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz.yaml
+in_reply_to_id: /archive/collections/solicitations/force11-decision-trees-workflow-system-proposal.warc.gz
 #part_of_id: /static/solutions/proposals/scholarly-commoning-prototype/index.md
 tags:
   - Scholarly Commons
