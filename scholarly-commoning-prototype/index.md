@@ -70,7 +70,7 @@ response][Continuing the conversations] for some background thoughts, though
 this is still a moving target._
 
 A vision for this project is painted beautifully by the humanist Jeffrey
-Schnapp in his concept of <dfn id="def:ubiquitous-curation">ubiquitous
+Schnapp in his concept of <dfn id="ubiquitous-curation">ubiquitous
 curation</dfn> in the lecture [<cite>Knowledge Design</cite>][knowledge
 design].
 
