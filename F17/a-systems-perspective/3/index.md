@@ -22,7 +22,7 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 > three times in this sentence and it points to the fundamental difficulty of
 > the task. In fact it is daunting, but it should not discourage us.
 
-<figcaption>--- [Guedon Jean-Claude]{lang=fr}, in response to Stevan Harnad's subversive proposal</figcaption> 
+<figcaption>--- [Jean-Claude Guedon]{lang=fr}, [in response] to Stevan Harnad's [subversive proposal]</figcaption>
 </figure>
 
 This capstone session tries to connect the past and future visions of
@@ -39,3 +39,6 @@ systemic visions of the future". They could be done individually and
 stand-alone if needed, but would be best held sequentially.
 
 Discussion-style.
+
+[in response]: https://groups.google.com/d/msg/bit.listserv.vpiej-l/BoKENhK0_00/dTJSjKmzObYJ
+[subversive proposal]: https://groups.google.com/forum/?hl=en#!topic/bit.listserv.vpiej-l/BoKENhK0_00
