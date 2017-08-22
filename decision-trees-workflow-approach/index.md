@@ -9,6 +9,7 @@ in_reply_to_id: /archive/collections/solicitations/force11-decision-trees-workfl
 #part_of_id: /static/solutions/proposals/scholarly-commoning-prototype/index.md
 tags:
   - Scholarly Commons
+  - FORCE11
 ---
 
 # General approach
