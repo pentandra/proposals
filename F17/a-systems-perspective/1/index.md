@@ -57,12 +57,12 @@ and stand-alone if needed, but would be best held sequentially.
 
 Here is a rough outline of this first workshop:
 
-- 10 minutes, theory/how to draw
-- 15 minutes, groups - historical systems
-- 5--10 minutes, plenary - share
-- 20 minutes, groups - current system
-- 5--10 minutes, plenary - share
-- 15--20 minutes, plenary - distill realities
+- [10]{.oldstyle} minutes, theory/how to draw
+- [15]{.oldstyle} minutes, groups - historical systems
+- [5--10]{.oldstyle} minutes, plenary - share
+- [20]{.oldstyle} minutes, groups - current system
+- [5--10]{.oldstyle} minutes, plenary - share
+- [15--20]{.oldstyle} minutes, plenary - distill realities
 - rest of time, plenary - implications
 
 [2]: <../2/>

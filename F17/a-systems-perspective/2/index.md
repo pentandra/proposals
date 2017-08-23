@@ -39,7 +39,7 @@ efforts.
 
 # Format
 
-A [45--60 or 60--75]{.oldstyle} minute workshop session.
+A [45--60]{.oldstyle} or [60--75]{.oldstyle} minute workshop session.
 
 This is part two of three workshop sessions. The first is <cite>[The Scholarly
 Commons: a systems perspective][1]</cite>, and the last is <cite>[The Scholarly
@@ -48,11 +48,11 @@ stand-alone if needed, but would be best held sequentially.
 
 Here is a rough outline of this second workshop:
 
-- 10 minutes, Quick recap of previous session. Intro to systems thinking.
-- 15 minutes, 1--2 minute soapbox for each system. Invite contributor/advocate to present on their system. BYOS, but we will provide some as well.
-- 12 minutes × 3, Break into groups. Evaluate and diagram each system from a systems point of view. Switch systems at least three times.
-- 10--15 minutes, Plenary to discuss and share
-- 10 minutes, Plenary, asking
+- [10]{.oldstyle} minutes, Quick recap of previous session. Intro to systems thinking.
+- [15]{.oldstyle} minutes, [1--2]{.oldstyle} minute soapbox for each system. Invite contributor/advocate to present on their system. BYOS, but we will provide some as well.
+- [12]{.oldstyle} minutes × [3]{.oldstyle}, Break into groups. Evaluate and diagram each system from a systems point of view. Switch systems at least three times.
+- [10--15]{.oldstyle} minutes, Plenary to discuss and share
+- [10]{.oldstyle} minutes, Plenary, asking questions such as the following:
 
 What's the best stuff up here? What do we want to see for sure in any future
 system of scholarship? What is essential, what is vital, what is central? What
