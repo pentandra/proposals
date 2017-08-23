@@ -1,5 +1,5 @@
 ---
-title: Where are we, and how did we get here?
+title: A systems perspective of the past and present
 created_at: 2017-08-12
 updated_at: 2017-08-21
 submitted_at: 2017-08-15

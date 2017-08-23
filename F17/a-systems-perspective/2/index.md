@@ -41,9 +41,9 @@ scholarship that can feed back into the scholarly commons efforts.
 A [45--60]{.oldstyle} or [60--75]{.oldstyle} minute workshop session.
 
 This is part two of three workshop sessions. The first is <cite>[The Scholarly
-Commons: a systems perspective][1]</cite>, and the last is <cite>[The Scholarly
-Commons: systemic change][3]</cite>. They could be done individually and
-stand-alone if needed, but would be best held sequentially.
+Commons: a systems perspective of the past and present][1]</cite>, and the last
+is <cite>[The Scholarly Commons: systemic change][3]</cite>. They could be done
+individually and stand-alone if needed, but would be best held sequentially.
 
 Here is a rough outline of this second workshop:
 
