@@ -33,6 +33,8 @@ world with greater light and understanding will be magnified.
 
 # Format
 
+A [30--45]{.oldstyle} minute workshop session.
+
 This is part three of three workshop sessions. The first is "The Scholarly
 Commons: a systems perspective", and the second is "The Scholarly Commons:
 systemic visions of the future". They could be done individually and

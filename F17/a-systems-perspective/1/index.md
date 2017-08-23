@@ -48,6 +48,8 @@ This is a leading exercise to help lay a groundwork for future discussions.
 
 # Format
 
+A [75--90]{.oldstyle} minute workshop session.
+
 This is part one of three workshop sessions. They could be done individually
 and stand-alone if needed, but would be best held sequentially.
 

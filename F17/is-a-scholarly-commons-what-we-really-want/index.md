@@ -21,3 +21,7 @@ illuminate similar differences in how we work together and share scholarship.
 This lighthearted approach will incorporate a smattering of commons theory to
 open a window to a digestible understanding of what a scholarly commons might
 be and beg the question, "Is that what we really want?"
+
+# Format
+
+Poster.

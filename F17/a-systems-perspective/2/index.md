@@ -39,6 +39,8 @@ efforts.
 
 # Format
 
+A [45--60 or 60--75]{.oldstyle} minute workshop session.
+
 This is part two of three workshop sessions. The first is "The Scholarly
 Commons: a systems perspective", and the last is "The Scholarly Commons:
 systemic change". They could be done individually and stand-alone if needed,

@@ -9,6 +9,8 @@ tags:
   - Scholarly Commons
 ---
 
+# Description
+
 In a short inspirational talk, I would like to share my hope for the future of
 scholarly communications. This is a hope that reaches into the individual
 efforts of researchers and allows building upon each thought and moment of
@@ -33,3 +35,7 @@ have a hope for scholarly communications that value every type of contribution
 and open paths for each researcher to share and build in ways that will most
 effectively and fully build themselves, their peers, and the knowledge of the
 world.
+
+# Format
+
+A [5--10]{.oldstyle} minute flash talk.
