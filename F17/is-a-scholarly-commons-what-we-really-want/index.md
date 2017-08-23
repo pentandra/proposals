@@ -3,7 +3,7 @@ title: Is a Scholarly Commons What We Really Want?
 created_at: 2017-08-15
 updated_at: 2017-08-15
 submitted_at: 2017-08-15
-kind: proposal
+kind: abstract
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 tags:
   - Scholarly Commons

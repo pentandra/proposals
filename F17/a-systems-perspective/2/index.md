@@ -3,7 +3,7 @@ title: Systemic visions of the future
 created_at: 2017-08-15
 updated_at: 2017-08-23
 submitted_at: 2017-08-15
-kind: proposal
+kind: abstract
 part_of_id: /static/solutions/proposals/F17/a-systems-perspective/index.*
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 ---
