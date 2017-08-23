@@ -20,7 +20,7 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 > and our allies around the world to articulate their visions for the Scholarly
 > Commons. 
 
-<figcaption>--- Maryann Martone, <cite><a href="https://www.force11.org/blog/future-happy-place">The Future is a Happy Place</a></cite>\par</figcaption>
+<figcaption>--- Maryann Martone, <cite>[The Future is a Happy Place]</cite>\par</figcaption>
 </figure>
 
 Over the past two years, the Scholarly Commons Working Group has embarked on
@@ -61,3 +61,4 @@ required, or are they hiding something? Which are new? (label each somehow)
 We will ideally find elements and connections that are needed for any starter
 system.
 
+[The Future is a Happy Place]: <https://www.force11.org/blog/future-happy-place>
