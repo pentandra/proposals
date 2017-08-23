@@ -35,12 +35,15 @@ world with greater light and understanding will be magnified.
 
 A [30--45]{.oldstyle} minute workshop session.
 
-This is part three of three workshop sessions. The first is "The Scholarly
-Commons: a systems perspective", and the second is "The Scholarly Commons:
-systemic visions of the future". They could be done individually and
-stand-alone if needed, but would be best held sequentially.
+This is part three of three workshop sessions. The first is <cite>[The
+Scholarly Commons: a systems perspective][1]</cite>, and the second is
+<cite>[The Scholarly Commons: systemic visions of the future][2]</cite>. They
+could be done individually and stand-alone if needed, but would be best held
+sequentially.
 
 Discussion-style.
 
 [in response]: https://groups.google.com/d/msg/bit.listserv.vpiej-l/BoKENhK0_00/dTJSjKmzObYJ
 [subversive proposal]: https://groups.google.com/forum/?hl=en#!topic/bit.listserv.vpiej-l/BoKENhK0_00
+[1]: <../1/>
+[2]: <../2/>

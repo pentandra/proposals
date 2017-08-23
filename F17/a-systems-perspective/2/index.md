@@ -41,10 +41,10 @@ efforts.
 
 A [45--60 or 60--75]{.oldstyle} minute workshop session.
 
-This is part two of three workshop sessions. The first is "The Scholarly
-Commons: a systems perspective", and the last is "The Scholarly Commons:
-systemic change". They could be done individually and stand-alone if needed,
-but would be best held sequentially.
+This is part two of three workshop sessions. The first is <cite>[The Scholarly
+Commons: a systems perspective][1]</cite>, and the last is <cite>[The Scholarly
+Commons: systemic change][3]</cite>. They could be done individually and
+stand-alone if needed, but would be best held sequentially.
 
 Here is a rough outline of this second workshop:
 
@@ -64,3 +64,5 @@ We will ideally find elements and connections that are needed for any starter
 system.
 
 [The Future is a Happy Place]: <https://www.force11.org/blog/future-happy-place>
+[1]: <../1/>
+[3]: <../3/>

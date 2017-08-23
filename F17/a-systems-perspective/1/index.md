@@ -50,7 +50,9 @@ This is a leading exercise to help lay a groundwork for future discussions.
 
 A [75--90]{.oldstyle} minute workshop session.
 
-This is part one of three workshop sessions. They could be done individually
+This is part one of three workshop sessions. The second is <cite>[The Scholarly
+Commons: systemic visions of the future][2]</cite>, and the last is <cite>[The
+Scholarly Commons: systemic change][3]</cite>. They could be done individually
 and stand-alone if needed, but would be best held sequentially.
 
 Here is a rough outline of this first workshop:
@@ -62,3 +64,6 @@ Here is a rough outline of this first workshop:
 - 5--10 minutes, plenary - share
 - 15--20 minutes, plenary - distill realities
 - rest of time, plenary - implications
+
+[2]: <../2/>
+[3]: <../3/>
