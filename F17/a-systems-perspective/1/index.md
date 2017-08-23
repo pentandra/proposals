@@ -19,7 +19,7 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 > themselves.… There's so much talk about the system. And so little
 > understanding.
 
-<figcaption>--- Robert Pirsig, <cite>Zen and the Art of Motorcycle Maintenance</cite></figcaption>
+<figcaption>--- Robert Pirsig, <cite>Zen and the Art of Motorcycle Maintenance</cite>\par</figcaption>
 </figure>
 
 In order to change the culture of scholarship, we first need to understand what
