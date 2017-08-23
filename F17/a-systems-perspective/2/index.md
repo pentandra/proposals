@@ -13,12 +13,12 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 <figure class="grab bq">
 
 > What if we just started from scratch and designed a system for current
-> technology instead of trying to adapt our current pre-digital system? Such an
-> exercise would cause us to examine our assumptions about the way things
-> should be. And, once we knew what a system should look like, we could see how
-> close we were to achieving it.... We will be engaging the FORCE11 community
-> and our allies around the world to articulate their visions for the Scholarly
-> Commons. 
+> technology instead of trying to adapt our current [pre-digital]{.sic} system?
+> Such an exercise would cause us to examine our assumptions about the way
+> things should be. And, once we knew what a system should look like, we could
+> see how close we were to achieving it.... We will be engaging the FORCE11
+> community and our allies around the world to articulate their visions for the
+> Scholarly Commons.
 
 <figcaption>--- Maryann Martone, <cite>[The Future is a Happy Place]</cite>\par</figcaption>
 </figure>
