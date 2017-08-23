@@ -1,7 +1,7 @@
 ---
 title: Systemic visions of the future
 created_at: 2017-08-15
-updated_at: 2017-08-21
+updated_at: 2017-08-23
 submitted_at: 2017-08-15
 kind: proposal
 part_of_id: /static/solutions/proposals/F17/a-systems-perspective/index.*
@@ -30,12 +30,11 @@ specifically by reaching out to others that are working on efforts for the
 future of scholarly communications in some way, to see what we can learn by
 evaluating these prospective systems of scholarship.
 
-Using terminology and models from systems theory, such as stocks, flows, and
-feedback loops. After a brief introduction to these concepts, prospective
-systems will be introduced, and we will work in groups to analyze these
-systems, with the goal of converging upon a collective understanding of the
-systems needed for scholarship that can feed back into the scholarly commons
-efforts.
+After a brief introduction to the terminology and models from systems theory,
+such as stocks, flows, and feedback loops, prospective systems will be
+introduced, and we will work in groups to analyze these systems, with the goal
+of converging upon a collective understanding of the systems needed for
+scholarship that can feed back into the scholarly commons efforts.
 
 # Format
 
