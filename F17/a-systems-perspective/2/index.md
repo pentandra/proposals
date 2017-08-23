@@ -16,7 +16,7 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 > technology instead of trying to adapt our current [pre-digital]{.sic} system?
 > Such an exercise would cause us to examine our assumptions about the way
 > things should be. And, once we knew what a system should look like, we could
-> see how close we were to achieving it.... We will be engaging the FORCE11
+> see how close we were to achieving it.… We will be engaging the FORCE11
 > community and our allies around the world to articulate their visions for the
 > Scholarly Commons.
 
