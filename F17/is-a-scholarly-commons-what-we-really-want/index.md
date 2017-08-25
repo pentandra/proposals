@@ -24,4 +24,4 @@ be and beg the question, "Is that what we really want?"
 
 # Format
 
-Poster.
+Poster or [5--10]{.oldstyle} minute flash talk.
