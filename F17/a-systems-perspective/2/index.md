@@ -1,5 +1,12 @@
 ---
 title: Systemic visions of the future
+description: >
+  Over the past two years, the Scholarly Commons Working Group has embarked on
+  several efforts to gather thoughts and ideas for a collective vision of the
+  Scholarly Commons. This session will contribute to this larger effort,
+  specifically by reaching out to others that are working on efforts for the
+  future of scholarly communications in some way, to see what we can learn by
+  evaluating these prospective systems of scholarship.
 created_at: 2017-08-15
 updated_at: 2017-08-23
 submitted_at: 2017-08-15

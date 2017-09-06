@@ -1,5 +1,11 @@
 ---
 title: Systemic change
+description: >
+  This capstone session tries to connect the past and future visions of
+  scholarship, using systems theory to provide a way forward. The goal of this
+  session will be to find leverage points that could be used to intervene in
+  the current system to affect change, so that ultimately, our ability to
+  affect the world with greater light and understanding will be magnified.
 created_at: 2017-08-15
 updated_at: 2017-08-21
 submitted_at: 2017-08-15
