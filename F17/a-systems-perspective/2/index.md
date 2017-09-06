@@ -41,8 +41,8 @@ evaluating these prospective systems of scholarship.
 After a brief introduction to the terminology and models from systems theory,
 such as stocks, flows, and feedback loops, prospective systems will be
 introduced, and we will work in groups to analyze these systems, with the goal
-of converging upon a collective understanding of the systems needed for
-scholarship that can feed back into the scholarly commons efforts.
+of converging upon a collective understanding of the systemic elements,
+interconnections, and purpose of the scholarship of the future.
 
 # Format
 
