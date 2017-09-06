@@ -31,8 +31,8 @@ and people. The approach we are taking is to describe the processes using RDF
 vocabularies, one of which will be created as part of this proposal.
 
 SVG will be used for the visual representation of these decision trees for the
-reason that they are portable, and the SVG Tiny [1.2]{.oldstyle} specification
-allows [embedded RDFa attributes][SVGTiny metadata] that will allow the data
+reason that they are portable, and the SVG Tiny 1.2 specification allows
+[embedded RDFa attributes][SVGTiny metadata] that will allow the data
 represented by these trees (not just the authoring metadata, but the purpose
 and intent of each node of the decision tree) to be accessible to machines as
 well as humans. This is a critical distinction that will enable these decision
@@ -219,7 +219,7 @@ Need to link with one or more external repositories
 :   The companion proposal describes a system that functions as a repository as
     well.
 
-Additional credit will be given to proposals that consider [508]{.oldstyle} compliance
+Additional credit will be given to proposals that consider 508 compliance
 
 :   The SVG format is textual and consideration will be given to make these
     objects as accessible to those with disabilities as possible.
