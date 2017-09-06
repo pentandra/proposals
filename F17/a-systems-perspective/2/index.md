@@ -8,7 +8,7 @@ description: >
   future of scholarly communications in some way, to see what we can learn by
   evaluating these prospective systems of scholarship.
 created_at: 2017-08-15
-updated_at: 2017-08-23
+updated_at: 2017-09-05
 submitted_at: 2017-08-15
 kind: abstract
 decision: accepted
