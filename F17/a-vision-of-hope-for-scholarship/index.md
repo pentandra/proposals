@@ -44,4 +44,4 @@ world.
 
 # Format
 
-A [5--10]{.oldstyle} minute flash talk.
+A 5--10 minute flash talk.

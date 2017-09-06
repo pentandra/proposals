@@ -40,7 +40,7 @@ world with greater light and understanding will be magnified.
 
 # Format
 
-A [30--45]{.oldstyle} minute workshop session.
+A 30--45 minute workshop session.
 
 This is part three of three workshop sessions. The first is <cite>[The
 Scholarly Commons: a systems perspective of the past and present][1]</cite>,

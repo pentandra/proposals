@@ -32,4 +32,4 @@ be and beg the question, "Is that what we really want?"
 
 # Format
 
-Poster or [5--10]{.oldstyle} minute flash talk.
+Poster or 5--10 minute flash talk.
