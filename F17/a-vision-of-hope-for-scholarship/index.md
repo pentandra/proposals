@@ -9,7 +9,6 @@ created_at: 2017-08-15
 updated_at: 2017-08-15
 submitted_at: 2017-08-15
 kind: abstract
-decision: accepted
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 tags:
   - Scholarly Commons

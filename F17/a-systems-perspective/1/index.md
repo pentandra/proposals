@@ -9,7 +9,6 @@ created_at: 2017-08-12
 updated_at: 2017-08-21
 submitted_at: 2017-08-15
 kind: abstract
-decision: accepted
 part_of_id: /static/solutions/proposals/F17/a-systems-perspective/index.*
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 ---
