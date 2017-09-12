@@ -28,7 +28,7 @@ in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.
 > three times in this sentence and it points to the fundamental difficulty of
 > the task. In fact it is daunting, but it should not discourage us.
 
-<figcaption>--- [Jean-Claude Guedon]{lang=fr}, [in response] to Stevan Harnad's [subversive proposal]\par</figcaption>
+<figcaption>--- [Jean-Claude Guédon]{lang=fr}, [in response] to Stevan Harnad's [subversive proposal]\par</figcaption>
 </figure>
 
 This capstone session tries to connect the past and future visions of
