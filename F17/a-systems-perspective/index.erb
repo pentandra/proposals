@@ -12,7 +12,7 @@ tags:
 
   <h1><%= @item[:title] %></h1>
 
-  <div class="bd">
+  <div class="bd group">
 
     <p class="big">
 
@@ -24,17 +24,17 @@ tags:
 
   </div>
 
+  <section class="section" id="proposed-sessions">
+
+    <div class="numbered" resource="#sessions" typeof="schema:ItemList">
+      <% sessions = children_of(@item) %>
+      <link property="schema:itemListOrder" resource="schema:itemListOrderAscending" />
+      <meta property="schema:numberOfItems" content="<%=h sessions.length %>" datatype="schema:Integer" />
+      <% sessions.sort_by { |s| s.identifier }.each_with_index do |session, index| %>
+        <%= render('/proposals/partials/summary.*', item: session, position: index + 1) %>
+      <% end %>
+    </div>
+
+  </section>
+
 </div>
-
-<section class="section noted" id="proposed-sessions">
-
-  <div class="numbered" resource="#sessions" typeof="schema:ItemList">
-    <% sessions = children_of(@item) %>
-    <link property="schema:itemListOrder" resource="schema:itemListOrderAscending" />
-    <meta property="schema:numberOfItems" content="<%=h sessions.length %>" datatype="schema:Integer" />
-    <% sessions.sort_by { |s| s.identifier }.each_with_index do |session, index| %>
-      <%= render('/proposals/partials/summary.*', item: session, position: index + 1) %>
-    <% end %>
-  </div>
-
-</section>
