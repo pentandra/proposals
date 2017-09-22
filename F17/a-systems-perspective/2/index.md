@@ -10,6 +10,9 @@ description: >
 created_at: 2017-08-15
 updated_at: 2017-09-05
 submitted_at: 2017-08-15
+submitted_by:
+  - Chris Chapman
+  - Katie Chapman
 kind: abstract
 part_of_id: /static/solutions/F17/a-systems-perspective.*
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
