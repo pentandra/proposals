@@ -12,6 +12,7 @@ submitted_by:
   - Chris Chapman
   - Katie Chapman
 kind: abstract
+decision: accepted
 part_of_id: /static/solutions/F17/a-systems-perspective.*
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 ---

@@ -13,6 +13,7 @@ submitted_at: 2017-08-15
 submitted_by:
   - Katie Chapman
 kind: abstract
+decision: accepted
 in_reply_to_id: /archive/collections/solicitations/force2017-call-for-abstracts.warc.gz
 tags:
   - Scholarly Commons
