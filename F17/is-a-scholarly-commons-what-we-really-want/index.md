@@ -1,6 +1,6 @@
 ---
 title: Is a Scholarly Commons What We Really Want?
-description: >
+description: >-
   In a short talk or poster the differences between a "Scholarly Commons" and a
   few other possible organizational methods for future scholarly communications
   will be discussed through a metaphorical "potato commons." The differences

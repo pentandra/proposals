@@ -1,6 +1,6 @@
 ---
 title: A systems perspective of the past and present
-description: >
+description: >-
   In order to change the culture of scholarship, we first need to understand
   what that culture is. Through an interactive analysis of the past and present
   "systems" of scholarship, this session will help us to come to a better

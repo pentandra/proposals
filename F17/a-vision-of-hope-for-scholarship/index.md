@@ -1,6 +1,6 @@
 ---
 title: A Vision of Hope for Scholarship
-description: >
+description: >-
   I have a hope for scholarly communications that value every type of
   contribution and open paths for each researcher to share and build in ways
   that will most effectively and fully build themselves, their peers, and the
